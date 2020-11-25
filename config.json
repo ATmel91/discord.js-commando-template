@@ -1,0 +1,10 @@
+{
+  "token": " ~ YOUR TOKEN HERE ~ ",
+  "prefix": "!",
+
+  "ownersIDs": ["012345xxxxxx", "678910xxxxxx"],
+  "botName": "idk",
+  "botID": "012345xxxxxx",
+
+  "serverInvite": "https://discord.gg/xxxxxx"
+}
